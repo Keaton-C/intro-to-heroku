@@ -4,7 +4,7 @@
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/Keaton-C/intro-to-heroku",
+  "repository": "https://github.com/Keaton-C/intro-to-heroku/blob/master/app.json",
   "addons": [
     "heroku-postgresql"
   ]
